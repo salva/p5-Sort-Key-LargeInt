@@ -98,8 +98,6 @@ place.
 
 =back
 
-
-
 =head1 SEE ALSO
 
 L<Sort::Key>, L<Sort::Key::Maker>
